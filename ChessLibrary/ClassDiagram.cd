@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessLibrary.CellFactory">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>CellFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.ChessBoard">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACBAAAAAAGAAAAAAAAAAAAAIAAAACAEAAABA=</HashCode>
+      <FileName>ChessBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.Behavior">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\Behavior.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessLibrary.BishopBehavior">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\BishopBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.KingBehavior">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\KingBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.KnightBehavior">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\KnightBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.PawnBehavior">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\PawnBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.QueenBehavior">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\QueenBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.RookBehavior">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\RookBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.Bishop">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\Bishop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessLibrary.King">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\King.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessLibrary.Knight">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\Knight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessLibrary.Pawn">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\Pawn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessLibrary.Queen">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\Queen.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessLibrary.Rook">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\Rook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChessUI.GameStateInformation">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>GameStateInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.Cell">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.ChessGame">
+    <Position X="10.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAYEAAAAAAAKRACAAAAAAEAAAAAgCQAAAE=</HashCode>
+      <FileName>ChessGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.GameOverEventArgs">
+    <Position X="12.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameOverEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessUI.PieceInfo">
+    <Position X="8.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>PieceInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.PieceMotionEventArgs">
+    <Position X="12.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PieceMotionEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.PiecePromotionEventArgs">
+    <Position X="12.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>PiecePromotionEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessLibrary.FileOperations">
+    <Position X="8.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAACAAAAAA=</HashCode>
+      <FileName>FileOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ChessLibrary.IPiece">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Pieces\IPiece.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ChessLibrary.IBehavior">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Behaviors\IBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
