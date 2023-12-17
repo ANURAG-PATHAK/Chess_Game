@@ -5,6 +5,7 @@ This is a Chess Game application developed in C#. The application is divided int
 ## ChessLibrary
 
 The ChessLibrary is the core of the application. It contains all the logic for the chess game, including the behaviors of the pieces, the game state, and the rules of the game.
+![class diagram of chessLibrary](classDiagram.png)
 
 ### Key Components
 
